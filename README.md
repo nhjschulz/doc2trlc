@@ -1,2 +1,2 @@
-# doc2trlc
-DOC2TRLC- A Tool to extract TRLC Information out of Word Documents.
+# Doc2Trlc
+A Tool to extract TRLC Information out of Word Documents.
